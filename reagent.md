@@ -1,4 +1,4 @@
-Oficial
+
 
 __Re Frame__
 
@@ -7,6 +7,8 @@ __Re Frame__
  * https://github.com/Day8/re-frame/tree/master/docs#introduction
 
 
-Tutours
-http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/
+__Tutours__
+
+ * http://andrewhfarmer.com/component-communication/
+ * http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/
 
