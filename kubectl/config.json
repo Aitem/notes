@@ -1,0 +1,11 @@
+{
+	"auths": {
+		"docker.infra.aidbox.io": {
+			"auth": "YWlkYm94OkEzQThCMDg0LTI4MTItNDcyQi04Njk3LTg4RjFGNDUyM0VBRQ=="
+		},
+		"https://index.docker.io/v1/": {
+			"auth": "YWl0ZW06Rmd0cjE3VWk=",
+			"email": "muradbei@gmail.com"
+		}
+	}
+}
